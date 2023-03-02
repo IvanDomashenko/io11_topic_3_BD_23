@@ -43,15 +43,15 @@
 ## Посилання
 
 Сервіси для перевірки плагіату: \n
-[Талиця порівняння](https://en.wikipedia.org/wiki/Comparison_of_anti-plagiarism_software?wprov=sfla1)\n
-[Copyscape](https://becomeawritertoday.com/copyscape-review/)\n
-[Copyscape](https://uk.wikipedia.org/wiki/Copyscape)\n
-[Plagscan](https://www.plagscan.com/en/plagiarism-prevention-pool-ppp)\n
-[Scribbr, Unicheck, Grammarly](http://scribbr.com/plagiarism/best-plagiarism-checker/)\n
-[Unicheck](https://unicheck.com/uk-ua/plagiarism-detection-solution)\n
-[Grammarly](https://www.grammarly.com/plagiarism-checker)\n
-[iThenticate](https://www.ithenticate.com/customers/reviews)\n
-[Plagtracker](https://www.thetechedvocate.org/product-review-of-plagtracker/)\n
+[Талиця порівняння](https://en.wikipedia.org/wiki/Comparison_of_anti-plagiarism_software?wprov=sfla1);
+[Copyscape](https://becomeawritertoday.com/copyscape-review/);
+[Copyscape](https://uk.wikipedia.org/wiki/Copyscape);
+[Plagscan](https://www.plagscan.com/en/plagiarism-prevention-pool-ppp);
+[Scribbr, Unicheck, Grammarly](http://scribbr.com/plagiarism/best-plagiarism-checker/);
+[Unicheck](https://unicheck.com/uk-ua/plagiarism-detection-solution);
+[Grammarly](https://www.grammarly.com/plagiarism-checker);
+[iThenticate](https://www.ithenticate.com/customers/reviews);
+[Plagtracker](https://www.thetechedvocate.org/product-review-of-plagtracker/);
 
 
 *[Розділ містить повний список всіх документів, про які згадується.]*
