@@ -42,7 +42,7 @@
 
 ## Посилання
 
-Сервіси для перевірки плагіату: \n
+Сервіси для перевірки плагіату: 
 [Талиця порівняння](https://en.wikipedia.org/wiki/Comparison_of_anti-plagiarism_software?wprov=sfla1);
 [Copyscape](https://becomeawritertoday.com/copyscape-review/);
 [Copyscape](https://uk.wikipedia.org/wiki/Copyscape);
