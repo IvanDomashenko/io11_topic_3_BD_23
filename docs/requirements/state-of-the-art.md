@@ -42,4 +42,17 @@
 
 ## Посилання
 
+Сервіси для перевірки плагіату:
+[Талиця порівняння](https://en.wikipedia.org/wiki/Comparison_of_anti-plagiarism_software?wprov=sfla1)
+[Copyscape](https://becomeawritertoday.com/copyscape-review/)
+[Copyscape](https://uk.wikipedia.org/wiki/Copyscape)
+[Plagscan](https://www.plagscan.com/en/plagiarism-prevention-pool-ppp)
+[Scribbr, Unicheck, Grammarly](http://scribbr.com/plagiarism/best-plagiarism-checker/)
+[Unicheck](https://unicheck.com/uk-ua/plagiarism-detection-solution)
+[Grammarly](https://www.grammarly.com/plagiarism-checker)
+
+[iThenticate](https://www.ithenticate.com/customers/reviews)
+[Plagtracker](https://www.thetechedvocate.org/product-review-of-plagtracker/)
+
+
 *[Розділ містить повний список всіх документів, про які згадується.]*
